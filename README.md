@@ -1,5 +1,8 @@
 # Zig Image library
 
+This is a personal fork of the zigimg library for use on a separate personal project. The changes made here are to
+make sure that this library can compile on Zig release version 0.14. 
+
 This is a work in progress library to create, process, read and write different image formats with [Zig](https://ziglang.org/) programming language.
 
 ![License](https://img.shields.io/github/license/zigimg/zigimg) ![Issue](https://img.shields.io/github/issues-raw/zigimg/zigimg?style=flat) ![Commit](https://img.shields.io/github/last-commit/zigimg/zigimg) ![CI](https://github.com/zigimg/zigimg/workflows/CI/badge.svg)
